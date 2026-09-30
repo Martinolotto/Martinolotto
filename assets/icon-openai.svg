@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" role="img" aria-labelledby="title">
+  <title id="title">OpenAI</title>
+  <circle cx="18" cy="18" r="17" fill="#8B5CF6"/>
+  <path d="M18 7.5c2.9 0 5.25 2.35 5.25 5.25v1.5h1.5a5.25 5.25 0 1 1 0 10.5h-1.5v1.5a5.25 5.25 0 1 1-10.5 0v-1.5h-1.5a5.25 5.25 0 1 1 0-10.5h1.5v-1.5C12.75 9.85 15.1 7.5 18 7.5Z" fill="none" stroke="#FFF" stroke-width="2.2" stroke-linejoin="round"/>
+  <circle cx="18" cy="18" r="3.1" fill="#FFF"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" role="img" aria-labelledby="title description">
+  <title id="title">Profile summary terminal</title>
+  <desc id="description">Terminal summary of Martino Lotto: software development student focused on backend, databases and AI-assisted development.</desc>
+  <rect width="720" height="300" rx="16" fill="#161B22"/>
+  <rect x="10" y="10" width="700" height="280" rx="11" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <circle cx="35" cy="35" r="6" fill="#F472B6"/><circle cx="56" cy="35" r="6" fill="#F0B429"/><circle cx="77" cy="35" r="6" fill="#3FB950"/>
+  <text x="105" y="40" fill="#8B949E" font-family="JetBrains Mono, ui-monospace, monospace" font-size="14">profile-summary</text>
+  <path d="M25 59H695" stroke="#30363D"/>
+  <g font-family="JetBrains Mono, ui-monospace, monospace">
+    <text x="40" y="98" fill="#3FB950" font-size="16" font-weight="700">martino@fedora:~$</text><text x="251" y="98" fill="#C9D1D9" font-size="16">profile --summary</text>
+    <g fill="#8B949E" font-size="15"><text x="52" y="143">role</text><text x="52" y="176">focus</text><text x="52" y="209">system</text><text x="52" y="242">workflow</text><text x="52" y="275">location</text></g>
+    <g fill="#C9D1D9" font-size="15"><text x="190" y="143">Software Development Student</text><text x="190" y="176">Backend · Databases · AI-assisted development</text><text x="190" y="209">Fedora Linux</text><text x="190" y="242">build · learn · ship</text><text x="190" y="275">Formosa, Argentina</text></g>
+  </g>
+</svg>
